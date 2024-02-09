@@ -1,0 +1,59 @@
+17:22:43.032 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+17:22:43.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+17:23:18.547 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+17:23:18.822 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+17:23:29.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+17:23:29.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+18:15:04.421 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+18:15:04.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+18:15:08.413 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:15:08.865 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:15:09.393 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:15:09.394 [main] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:15:12.527 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:15:12.614 [main] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:15:12.614 [main] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+18:15:12.614 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:15:45.100 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+18:15:45.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+18:15:48.137 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:15:48.633 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:15:49.099 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:15:49.099 [main] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:15:52.120 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:15:52.175 [main] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:15:52.176 [main] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+18:15:52.176 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:15:55.089 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:15:55.221 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:15:55.623 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:15:55.623 [main] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:15:58.866 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:15:58.916 [main] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:15:58.916 [main] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+18:15:58.916 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:16:32.512 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+18:16:32.800 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+18:16:38.473 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:16:39.751 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:16:40.520 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:16:40.522 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:16:40.572 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:16:40.730 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:16:41.373 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:16:41.373 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:16:43.991 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:16:44.073 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:16:44.074 [TestNG-tests-1] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...

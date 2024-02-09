@@ -1,0 +1,54 @@
+18:16:44.074 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:16:45.074 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:16:45.122 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:16:45.122 [TestNG-tests-2] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+18:16:45.123 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:36:07.248 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\testng.xml"
+18:36:07.595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\testng.xml
+
+18:36:14.560 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:36:14.823 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:36:15.509 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:36:15.509 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:36:19.077 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:36:19.138 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:36:19.139 [TestNG-tests-2] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+18:36:19.139 [TestNG-tests-2] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:36:37.314 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+18:36:37.503 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+18:36:38.032 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+18:36:38.032 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:36:41.387 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:36:41.467 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:36:41.467 [TestNG-tests-1] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+18:36:41.467 [TestNG-tests-1] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+17:58:48.060 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\master.xml"
+17:58:48.446 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\master.xml
+
+17:58:53.165 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+17:58:53.301 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+17:58:53.764 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+17:58:53.764 [main] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+17:58:56.907 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+17:58:56.965 [main] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+17:58:56.966 [main] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+17:58:56.966 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+17:58:59.862 [main] INFO  testClass.TC_002_Login_Page_Test - **** Started TC_002_Login_Page_Test ****
+17:58:59.862 [main] DEBUG testClass.TC_002_Login_Page_Test - Debug Logs
+17:59:00.224 [main] INFO  testClass.TC_002_Login_Page_Test - clicked on my account in home page
+17:59:00.706 [main] INFO  testClass.TC_002_Login_Page_Test - clicked on login in home page
+17:59:00.833 [main] INFO  testClass.TC_002_Login_Page_Test - entering the email
+17:59:00.930 [main] INFO  testClass.TC_002_Login_Page_Test - entering the password
+17:59:53.208 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\rivisionforinterviewprospective\opencart\master.xml"
+17:59:53.526 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\rivisionforinterviewprospective\opencart\master.xml
+
+17:59:56.479 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+17:59:57.042 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+17:59:57.599 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+17:59:57.600 [main] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+18:00:00.901 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+18:00:00.947 [main] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+18:00:00.947 [main] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...

@@ -1,0 +1,16 @@
+14:15:20.725 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+14:15:21.508 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on MyAccount
+14:15:22.196 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Registration
+14:15:22.197 [main] INFO  testClass.TC_001_AccountRegistrationTest - Entering the registration details
+14:15:25.357 [main] INFO  testClass.TC_001_AccountRegistrationTest - Click on Continue Button
+14:15:25.427 [main] INFO  testClass.TC_001_AccountRegistrationTest - Validating the Message
+14:15:25.427 [main] DEBUG testClass.TC_001_AccountRegistrationTest - application logs end...
+14:15:25.428 [main] INFO  testClass.TC_001_AccountRegistrationTest - **** TC_001_AccountRegistrationTest ****
+14:15:28.723 [main] INFO  testClass.TC_002_Login_Page_Test - **** Started TC_002_Login_Page_Test ****
+14:15:28.724 [main] DEBUG testClass.TC_002_Login_Page_Test - Debug Logs
+14:15:29.468 [main] INFO  testClass.TC_002_Login_Page_Test - clicked on my account in home page
+14:15:29.939 [main] INFO  testClass.TC_002_Login_Page_Test - clicked on login in home page
+14:15:30.074 [main] INFO  testClass.TC_002_Login_Page_Test - entering the email
+14:15:30.181 [main] INFO  testClass.TC_002_Login_Page_Test - entering the password
+14:15:30.706 [main] INFO  testClass.TC_002_Login_Page_Test - **** Finished TC_002_Login_Page_Test ****
+14:15:30.707 [main] DEBUG testClass.TC_002_Login_Page_Test - Debug Logs Ended

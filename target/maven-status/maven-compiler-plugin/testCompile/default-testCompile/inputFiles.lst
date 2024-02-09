@@ -1,0 +1,12 @@
+E:\rivisionforinterviewprospective\opencart\src\test\java\pageObjects\AccountRegistration.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\pageObjects\BasePage.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\pageObjects\HomePage.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\pageObjects\LoginAccount.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\pageObjects\MyAccount.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\testBase\BaseClass.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\testClass\TC_001_AccountRegistrationTest.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\testClass\TC_002_Login_Page_Test.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\testClass\TC_003_Login_Data_Driven_Test.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\utilities\DataProviders.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\utilities\ExcelUtility.java
+E:\rivisionforinterviewprospective\opencart\src\test\java\utilities\ExtentReportManager.java
